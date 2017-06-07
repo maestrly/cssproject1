@@ -1,0 +1,40 @@
+h1 {
+  font-family: monospace;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-family: monospace;
+  text-align: center;
+}
+
+table {
+  margin: auto;
+}
+
+td {
+  width: 200px;
+  height: 500px;
+  border: 10px solid white;
+}
+
+#one {
+  background-color: #2B2D42;
+}
+
+#two {
+  background-color: #8d99ae;
+}
+
+#three {
+  background-color: #EDF2F4;
+}
+
+#four {
+  background-color: #EF233C;
+}
+
+#five {
+  background-color: #D90429;
+}
